@@ -11,7 +11,6 @@ function App() {
       {/* <RandomColorGenerator/> */}
       {/* <StarRating/> */}
       {/* <Slider url="https://picsum.photos/v2/list?page=1&limit=" limit={10}/> */}
-      {/* <Slider url="https://jsonplaceholder.typicode.com/photos" limit={10}/> */}
     </>
   )
 }
